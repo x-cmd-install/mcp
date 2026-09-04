@@ -7,7 +7,7 @@ about:
   head: 9db12f2
   archived: false
   latestVersion: 
-  collectedAt: 2026-09-04T19:22:45Z
+  collectedAt: 2026-09-04T21:09:18Z
 timeline:
   created: 2025-03-28
   lastCommit: 2025-04-24
@@ -81,5 +81,28 @@ total:
   openIssue: 128
   commit: 6
 ---
+path: /home/runner/.x-repo/github.com/BrowserMCP/mcp
+collectedAt: 2026-09-04T21:09:18Z
+loc:
+  TypeScript:
+    code: 564
+    comments: 10
+    blanks: 66
+    files: 12
+  Json:
+    code: 59
+    comments: 0
+    blanks: 0
+    files: 2
+  Markdown:
+    code: 0
+    comments: 22
+    blanks: 10
+    files: 1
+total:
+  code: 623
+  comments: 32
+  blanks: 76
+  files: 15
 ---
 
