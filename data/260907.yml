@@ -5,13 +5,13 @@ about:
   head: 9db12f2
   archived: false
   latestVersion: ""
-  collectedAt: 2026-09-07T04:49:08Z
+  collectedAt: 2026-09-07T19:36:48Z
 timeline:
   created: 2025-03-28
   lastCommit: 2025-04-24
   lastRelease: 
 popularity:
-  star: 7056
+  star: 7059
   watcher: 20
   fork: 561
   release: 0
@@ -80,7 +80,7 @@ total:
   commit: 6
 ---
 path: /home/runner/.x-repo/github.com/BrowserMCP/mcp
-collectedAt: 2026-09-07T04:49:09Z
+collectedAt: 2026-09-07T19:36:49Z
 loc:
   TypeScript:
     code: 564
@@ -106,7 +106,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:49:09+00:00
+  collectedAt: 2026-09-07T19:36:49+00:00
   platform:
     darwin/arm64:
       name:  null
