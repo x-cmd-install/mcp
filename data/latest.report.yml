@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:01:17Z
+  collectedAt: 2026-09-09T19:15:40Z
 timeline:
   created: 2025-03-28
   lastCommit: 2025-04-24
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 
   lastPrerelease: 
 popularity:
-  star: 7064
+  star: 7067
   watcher: 21
-  fork: 563
+  fork: 565
   release: 0
   contributor: 1
   pullRequest: 24
@@ -84,7 +84,7 @@ total:
   commit: 6
 ---
 path: /home/runner/.x-repo/github.com/BrowserMCP/mcp
-collectedAt: 2026-09-09T05:01:17Z
+collectedAt: 2026-09-09T19:15:40Z
 loc:
   TypeScript:
     code: 564
