@@ -4,7 +4,7 @@
 
 Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser
 
-[![x-cmd/install — mcp Code Quality Monitoring Repo Card](https://repo.x-cmd.io/mcp.svg)](https://x-cmd.com/install/mcp)
+[![x-cmd/install — mcp Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/mcp.svg)](https://x-cmd.com/install/mcp)
 
 ## Install
 
@@ -30,7 +30,7 @@ Total: **623** lines of code across **15** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 7,120 · **Forks**: 573 · **Open issues**: 170 · **Contributors**: 1
+- **Stars**: 7,122 · **Forks**: 574 · **Open issues**: 170 · **Contributors**: 1
 
 ## Totals (cumulative)
 
@@ -40,12 +40,12 @@ Total: **623** lines of code across **15** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 1 | 0 | 2 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 2 | 0 | 6 | 0 |
-| 90d | 2026-06-24 | 0 | 0 | 2 | 0 | 9 | 0 |
-| last180d | 2026-03-26 | 0 | 0 | 10 | 2 | 20 | 0 |
-| 360d | 2025-09-27 | 0 | 0 | 16 | 5 | 47 | 0 |
-| last720d | 2024-10-02 | 0 | 0 | 20 | 40 | 130 | 6 |
+| 30d | 2026-08-24 | 0 | 0 | 1 | 0 | 2 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 2 | 0 | 6 | 0 |
+| 90d | 2026-06-25 | 0 | 0 | 2 | 0 | 9 | 0 |
+| last180d | 2026-03-27 | 0 | 0 | 10 | 2 | 20 | 0 |
+| 360d | 2025-09-28 | 0 | 0 | 16 | 5 | 47 | 0 |
+| last720d | 2024-10-03 | 0 | 0 | 20 | 40 | 130 | 6 |
 
 ## Improve this data
 
@@ -56,4 +56,4 @@ Install metadata for mcp lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:04:09Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:08:33Z._
