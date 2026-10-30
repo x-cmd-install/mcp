@@ -1,0 +1,143 @@
+about:
+  description: "Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser"
+  license: Apache-2.0
+  homepage: https://browsermcp.io
+  head: 6f64ad7
+  archived: false
+  latestVersion: ""
+  latestRelease: ""
+  latestPrerelease: ""
+  collectedAt: 2026-10-30T05:53:53Z
+timeline:
+  created: 2025-03-28
+  lastCommit: 2026-10-29
+  lastVersion: 
+  lastRelease: 
+  lastPrerelease: 
+popularity:
+  star: 7252
+  watcher: 19
+  fork: 597
+  release: 0
+  contributor: 1
+  pullRequest: 33
+  issue: 178
+language:
+  TypeScript: 770409
+  CSS: 1803
+  JavaScript: 1038
+  HTML: 367
+totalBytes: 773617
+recent:
+  last30d:
+    since: 2026-09-30
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 6
+    openIssue: 1
+    commit: 10
+  last60d:
+    since: 2026-08-31
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 8
+    openIssue: 1
+    commit: 10
+  last90d:
+    since: 2026-08-01
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 12
+    openIssue: 1
+    commit: 10
+  last180d:
+    since: 2026-05-03
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 20
+    openIssue: 1
+    commit: 10
+  last360d:
+    since: 2025-11-04
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 52
+    openIssue: 1
+    commit: 10
+  last720d:
+    since: 2024-11-09
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 177
+    openIssue: 1
+    commit: 16
+total:
+  release: 0
+  mergedPR: 0
+  openPR: 0
+  closedIssue: 177
+  openIssue: 1
+  commit: 16
+---
+path: /home/runner/.x-repo/github.com/BrowserMCP/mcp
+collectedAt: 2026-10-30T05:53:53Z
+loc:
+  TypeScript:
+    code: 18905
+    comments: 1205
+    blanks: 1398
+    files: 103
+  Yaml:
+    code: 4229
+    comments: 1
+    blanks: 1102
+    files: 2
+  Tsx:
+    code: 512
+    comments: 24
+    blanks: 41
+    files: 6
+  Json:
+    code: 234
+    comments: 0
+    blanks: 0
+    files: 10
+  Css:
+    code: 55
+    comments: 1
+    blanks: 4
+    files: 1
+  JavaScript:
+    code: 19
+    comments: 4
+    blanks: 0
+    files: 1
+  Svg:
+    code: 15
+    comments: 0
+    blanks: 0
+    files: 1
+  Html:
+    code: 13
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 333
+    blanks: 133
+    files: 8
+total:
+  code: 23998
+  comments: 1568
+  blanks: 2678
+  files: 133
+---
+
+---
