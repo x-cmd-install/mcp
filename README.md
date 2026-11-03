@@ -14,13 +14,13 @@ x install mcp
 
 ## Code insight
 
-Total: **24,021** lines of code across **123** files in the top 5 languages.
+Total: **25,674** lines of code across **126** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 18,944 | 1,205 | 1,404 | 104 |
-| Yaml | 4,229 | 1 | 1,102 | 2 |
-| Tsx | 512 | 24 | 41 | 6 |
+| TypeScript | 20,541 | 1,392 | 1,524 | 107 |
+| Yaml | 4,232 | 1 | 1,102 | 2 |
+| Tsx | 565 | 29 | 44 | 6 |
 | Json | 234 | 0 | 0 | 10 |
 | Css | 55 | 1 | 4 | 1 |
 
@@ -32,22 +32,22 @@ Total: **24,021** lines of code across **123** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 7,268 · **Forks**: 598 · **Open issues**: 179 · **Contributors**: 1
+- **Stars**: 7,279 · **Forks**: 600 · **Open issues**: 181 · **Contributors**: 2
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 0 · **Open PRs**: 2 · **Closed issues**: 179 · **Open issues**: 0 · **Commits**: 18
+- **Releases**: 0 · **Merged PRs**: 0 · **Open PRs**: 2 · **Closed issues**: 181 · **Open issues**: 0 · **Commits**: 28
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 0 | 0 | 2 | 8 | 0 | 12 |
-| last60d | 2026-09-03 | 0 | 0 | 2 | 10 | 0 | 12 |
-| 90d | 2026-08-04 | 0 | 0 | 2 | 13 | 0 | 12 |
-| last180d | 2026-05-06 | 0 | 0 | 2 | 22 | 0 | 12 |
-| 360d | 2025-11-07 | 0 | 0 | 2 | 53 | 0 | 12 |
-| last720d | 2024-11-12 | 0 | 0 | 2 | 179 | 0 | 18 |
+| 30d | 2026-10-04 | 0 | 0 | 2 | 9 | 0 | 22 |
+| last60d | 2026-09-04 | 0 | 0 | 2 | 12 | 0 | 22 |
+| 90d | 2026-08-05 | 0 | 0 | 2 | 15 | 0 | 22 |
+| last180d | 2026-05-07 | 0 | 0 | 2 | 24 | 0 | 22 |
+| 360d | 2025-11-08 | 0 | 0 | 2 | 55 | 0 | 22 |
+| last720d | 2024-11-13 | 0 | 0 | 2 | 181 | 0 | 28 |
 
 ## Improve this data
 
@@ -58,4 +58,4 @@ Install metadata for mcp lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T06:20:19Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T06:53:11Z._
