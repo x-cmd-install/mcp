@@ -32,22 +32,22 @@ Total: **25,674** lines of code across **126** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 7,279 · **Forks**: 600 · **Open issues**: 181 · **Contributors**: 2
+- **Stars**: 7,285 · **Forks**: 601 · **Open issues**: 182 · **Contributors**: 2
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 0 · **Open PRs**: 2 · **Closed issues**: 181 · **Open issues**: 0 · **Commits**: 28
+- **Releases**: 0 · **Merged PRs**: 0 · **Open PRs**: 2 · **Closed issues**: 181 · **Open issues**: 1 · **Commits**: 28
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 0 | 0 | 2 | 9 | 0 | 22 |
-| last60d | 2026-09-04 | 0 | 0 | 2 | 12 | 0 | 22 |
-| 90d | 2026-08-05 | 0 | 0 | 2 | 15 | 0 | 22 |
-| last180d | 2026-05-07 | 0 | 0 | 2 | 24 | 0 | 22 |
-| 360d | 2025-11-08 | 0 | 0 | 2 | 55 | 0 | 22 |
-| last720d | 2024-11-13 | 0 | 0 | 2 | 181 | 0 | 28 |
+| 30d | 2026-10-05 | 0 | 0 | 2 | 9 | 1 | 22 |
+| last60d | 2026-09-05 | 0 | 0 | 2 | 12 | 1 | 22 |
+| 90d | 2026-08-06 | 0 | 0 | 2 | 15 | 1 | 22 |
+| last180d | 2026-05-08 | 0 | 0 | 2 | 24 | 1 | 22 |
+| 360d | 2025-11-09 | 0 | 0 | 2 | 55 | 1 | 22 |
+| last720d | 2024-11-14 | 0 | 0 | 2 | 181 | 1 | 28 |
 
 ## Improve this data
 
@@ -58,4 +58,4 @@ Install metadata for mcp lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T06:53:11Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T06:25:47Z._
