@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-11-27T09:15:44Z
+  collectedAt: 2026-11-28T07:52:11Z
 timeline:
   created: 2025-03-28
   lastCommit: 2026-11-12
@@ -17,7 +17,7 @@ timeline:
 popularity:
   star: 7423
   watcher: 20
-  fork: 610
+  fork: 611
   release: 0
   contributor: 2
   pullRequest: 36
@@ -30,15 +30,15 @@ language:
 totalBytes: 926353
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 0
     mergedPR: 0
     openPR: 3
-    closedIssue: 6
+    closedIssue: 5
     openIssue: 4
     commit: 24
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 0
     mergedPR: 0
     openPR: 3
@@ -46,7 +46,7 @@ recent:
     openIssue: 4
     commit: 34
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 0
     mergedPR: 0
     openPR: 3
@@ -54,15 +54,15 @@ recent:
     openIssue: 4
     commit: 34
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 0
     mergedPR: 0
     openPR: 3
-    closedIssue: 23
+    closedIssue: 22
     openIssue: 4
     commit: 34
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 0
     mergedPR: 0
     openPR: 3
@@ -70,7 +70,7 @@ recent:
     openIssue: 4
     commit: 34
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 0
     mergedPR: 0
     openPR: 3
@@ -86,7 +86,7 @@ total:
   commit: 40
 ---
 path: /home/runner/.x-repo/github.com/BrowserMCP/mcp
-collectedAt: 2026-11-27T09:15:45Z
+collectedAt: 2026-11-28T07:52:12Z
 loc:
   TypeScript:
     code: 22021
